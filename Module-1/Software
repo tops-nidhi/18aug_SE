@@ -32,10 +32,14 @@ types:-
       5. Scripting language
         -> JavaScript, Node js, PHP, react, angular
    2. Low level programming language
-      1. Near to machine and far to human
+    -> Near to machine and far to human
+      1. Assembly language 
+      2. Machine language
 
-1. driver software:-
+4. driver software:-
     -> for ex., audio driver, video driver, network driver
 
-2. Middleware Software:- 
+5. Middleware Software:- 
+
+
     ->for ex., database
