@@ -1,0 +1,41 @@
+Software:-
+-> Software is collection of information, instruction and data.
+
+types:-
+1. System Software
+    ->OS - Operating System
+    -> Windows, mac, android, linux, ubuntu
+
+2. Application Software
+    a)Mobile Application
+        -> Used in the phone
+
+    b)Web Application
+        -> Web application is like platform where we can run the all websites
+        -> All web browser
+    c)Desktop Application
+        -> Desktop applications are used to perform some task on PC/Laptop
+        ->ms office, notepad, paint, vs code
+
+3. Programming Software
+-> Programming software is use to communicate between human and machine.
+   1. High Level programming 
+    ->Near to human and far to machine
+      1. POP - Procedure Oriented programming
+        -> C, basic, fortran
+      2. OOP - Object Oriented Programming
+        ->c++, java, pearl, .net, c#, f#
+      3. Logical Programming
+        -> prolog
+      4. Functional Programming
+        ->Python, lisp 
+      5. Scripting language
+        -> JavaScript, Node js, PHP, react, angular
+   2. Low level programming language
+      1. Near to machine and far to human
+
+1. driver software:-
+    -> for ex., audio driver, video driver, network driver
+
+2. Middleware Software:- 
+    ->for ex., database
