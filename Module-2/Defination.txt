@@ -1,0 +1,13 @@
+Keyword: -
+Reserve Word in programming language
+- We can't define the keyword as a identifier
+- The reserved word is used to make our code more readable and understandable. It's also used by compiler to check for syntax errors or any other
+- 32 keyword in C programming language
+- Keywords are case sensitive.
+
+Identifier:-
+-Identifier is name of the user define function or variable
+
+Variable:-
+-Variable is like a container where we can store the value
+- Variable is used to store data values and it's value can be changed at any time during program execution.
