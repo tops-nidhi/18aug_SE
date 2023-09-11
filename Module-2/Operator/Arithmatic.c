@@ -21,4 +21,4 @@ int main()
     printf("\nAddition = %d\nSubtraction = %d", a+b, a-b); //to make an addition
     printf("\nIncrement = %d", ++a); //to make an increment
     return 0;
-}
+}    
