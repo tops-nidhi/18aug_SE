@@ -40,7 +40,7 @@ int main()
         printf("Addition of %d and %d is =%d ", a, b, add());
         break;
     case 2:
-        printf("Substraction of %d and %d is=%d ", a, b, sub());
+        printf("Subtraction of %d and %d is=%d ", a, b, sub());
         break;
     case 3:
         printf("Multiplication of %d and %d is= %d ", a, b, mul());
