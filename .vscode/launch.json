@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "d:/Nidhi batch/Software Engineering/18aug_SE/Module-2/Structure-Unioun",
+      "program": "d:/Nidhi batch/Software Engineering/18aug_SE/Module-2/Structure-Unioun/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

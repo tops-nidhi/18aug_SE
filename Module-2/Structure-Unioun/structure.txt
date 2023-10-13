@@ -1,0 +1,13 @@
+Structure & Union
+-> Structure & Union both are user define data type.
+
+-> In a Structure or Union we can store the multiple value of multiple data type.
+-> A variable which are declare inside the structure or union that are called data member.
+-> We can use data member using object.
+-> We can't initialize the data member inside the structure or union body
+
+---------------------------------------------------------------
+-> Structure is declare using struct keyWord
+-> Union is declare using union keyWord
+-> The size of the structure is equal to summation of all its members sizes.
+-> The size of the union is equal to largest members sizes.
