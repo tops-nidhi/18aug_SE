@@ -1,0 +1,17 @@
+OOP - Object Oriented Programming
+
+There are the six concept in OOP
+1. Class:
+-> Class is a collection of data member and member function.
+OR
+-> Class is a blue print of the object.
+
+2. Object
+-> Object is a instance of the class.
+
+- Classes and objects in programming languages are the basic building blocks of object oriented programming.
+
+3. Encapsulation
+4. Abstraction
+5. Inheritance
+6. Polymorphism
