@@ -12,6 +12,12 @@ OR
 - Classes and objects in programming languages are the basic building blocks of object oriented programming.
 
 3. Encapsulation
+-> Wrapping up the data
+
 4. Abstraction
+-> Hide the data which was unnecessary for the user.
+
 5. Inheritance
+-> Reusability of code
+
 6. Polymorphism
